@@ -3,8 +3,8 @@
 
 ### Day 1: December 27 2020
 
-**Today's Progress**: Just added Posting blogs feature.
+**Today's Progress**: Just finished my blog posting app.
 
-**Thoughts** I've recently started coding, and it's a great feeling as I am learning with freecodecamp
+**Thoughts** I just finished my first site while learning ruby on rails. 
 **Link(s) to work**
 1. [Sharely] https://sharely.herokuapp.com
