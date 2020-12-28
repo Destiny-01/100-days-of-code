@@ -1,7 +1,7 @@
 # 100 Days Of Code - Log
 
 
-### Day 1: December 27 2020
+### Day 1: December 28 2020
 
 **Today's Progress**: Users can now comment on post.
 
