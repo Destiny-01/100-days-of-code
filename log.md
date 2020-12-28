@@ -3,7 +3,7 @@
 
 ### Day 1: December 27 2020
 
-**Today's Progress**: Just finished my blog posting app.
+**Today's Progress**: Users can now comment on post.
 
 **Thoughts** I just finished my first site while learning ruby on rails. 
 **Link(s) to work**
