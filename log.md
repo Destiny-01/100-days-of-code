@@ -17,3 +17,11 @@
 **Link(s) to work**
 1. [Sharely] https://sharley.herokuapp.com
 
+### Day 3: December 30 2020
+
+**Today's Progress**: Started an Ecommerce site with an html template .
+
+**Thoughts** Starting another ruby on rails site. Hope it turns out well. 
+**Link(s) to work**
+1. Soon to be hosted 
+
