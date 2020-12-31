@@ -25,3 +25,11 @@
 **Link(s) to work**
 1. Soon to be hosted 
 
+### Day 4: December 31 2020
+
+**Today's Progress**: Finished setting up my environment and now all is set .
+
+**Thoughts** Done preparing my environment and put the template in the right place. 
+
+**Link(s) to work**
+1. Soon to be hosted. 
