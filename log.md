@@ -45,3 +45,12 @@
 
 **Link(s) to work**
 1. Soon to be hosted
+
+### Day 6: January 2 2021
+
+**Today's Progress**: Created products section and created products .
+
+**Thoughts** Added some products . 
+
+**Link(s) to work**
+1. Soon to be hosted
