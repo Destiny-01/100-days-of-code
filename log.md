@@ -54,3 +54,12 @@
 
 **Link(s) to work**
 1. Soon to be hosted
+
+### Day 7: January 3 2021
+
+**Today's Progress**: Created cart and cart models .
+
+**Thoughts** Added my carts . 
+
+**Link(s) to work**
+1. Soon to be hosted
