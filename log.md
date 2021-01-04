@@ -63,3 +63,12 @@
 
 **Link(s) to work**
 1. Soon to be hosted
+
+### Day 8: January 4 2021
+
+**Today's Progress**: Created admin section and store pages.
+
+**Thoughts** Created admin section. Nice.. 
+
+**Link(s) to work**
+1. Soon to be hosted
