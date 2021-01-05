@@ -72,3 +72,12 @@
 
 **Link(s) to work**
 1. Soon to be hosted
+
+### Day 9: January 5 2021
+
+**Today's Progress**: Can now add products to cart .
+
+**Thoughts** Cart is so cool . 
+
+**Link(s) to work**
+1. Soon to be hosted
