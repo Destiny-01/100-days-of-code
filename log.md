@@ -81,3 +81,12 @@
 
 **Link(s) to work**
 1. Soon to be hosted
+
+### Day 10: January 7 2021
+**Today's Progress**: Created order  and order models .
+
+**Thoughts**: Will soon be able to place an order .
+
+**Link(s) to work**
+
+Soon to be hosted
