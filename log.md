@@ -90,3 +90,12 @@
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 11: January 8 2021
+**Today's Progress**: Can now place an order .
+
+**Thoughts**: We can place our order now .
+
+**Link(s) to work**
+
+Soon to be hosted
