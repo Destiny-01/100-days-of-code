@@ -99,3 +99,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 12: January 9 2021
+**Today's Progress**: Integrating braintree api .
+
+**Thoughts**: For making payments .
+
+**Link(s) to work**
+
+Soon to be hosted
