@@ -108,3 +108,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 13: January 10 2021
+**Today's Progress**: Paused Current Project and adding vote feature to sharley .
+
+**Thoughts**: Will Soon be able to vote (won't see changes cause I'm not yet done).
+
+**Link(s) to work**
+
+sharley.herokuapp.com 
