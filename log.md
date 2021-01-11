@@ -116,4 +116,12 @@ Soon to be hosted
 
 **Link(s) to work**
 
-sharley.herokuapp.com 
+1. [Sharely] https://sharley.herokuapp.com 
+
+### Day 14: January 11 2021
+**Today's Progress**: You Can Now Vote On Post .
+
+**Thoughts**: Can Now Vote. Will Add Commet Voting Soon.
+
+**Link(s) to work**
+1. [Sharely] https://sharley.herokuapp.com
