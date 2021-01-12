@@ -125,3 +125,12 @@ Soon to be hosted
 
 **Link(s) to work**
 1. [Sharely] https://sharley.herokuapp.com
+
+### Day 15: January 12 2021
+**Today's Progress**: Created a new app.
+
+**Thoughts**: Started another one .
+
+**Link(s) to work**
+
+Soon to be hosted
