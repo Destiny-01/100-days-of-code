@@ -134,3 +134,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 16: January 13 2021
+**Today's Progress**: Installed everything i needed and i have finished setting up.
+
+**Thoughts**: Prepared the way .
+
+**Link(s) to work**
+
+Soon to be hosted
