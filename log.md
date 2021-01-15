@@ -143,3 +143,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 17: January 14 2021
+**Today's Progress*: Created full user authentication .
+
+**Thoughts**: Users can now login, sign up etc.
+
+**Link(s) to work**
+
+Soon to be hosted
