@@ -145,7 +145,7 @@ Soon to be hosted
 Soon to be hosted
 
 ### Day 17: January 14 2021
-**Today's Progress*: Created full user authentication .
+**Today's Progress** : Created full user authentication .
 
 **Thoughts**: Users can now login, sign up etc.
 
