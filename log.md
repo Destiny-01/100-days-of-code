@@ -152,3 +152,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 18: January 16 2021
+**Today's Progress** : Can now do basic CRUD .
+
+**Thoughts**: You can Create, Read, Update and Delete .
+
+**Link(s) to work**
+
+Soon to be hosted
