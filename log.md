@@ -170,3 +170,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 20: January 18 2021
+**Today's Progress** : done with drag and drop functionality .
+
+**Thoughts**: Finished drag and drop functionality .
+
+**Link(s) to work**
+
+Soon to be hosted
