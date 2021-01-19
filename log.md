@@ -179,3 +179,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 21: January 19 2021
+**Today's Progress** : Allowing multiple images upload .
+
+**Thoughts**: Can post multiple imaages .
+
+**Link(s) to work**
+
+Soon to be hosted
