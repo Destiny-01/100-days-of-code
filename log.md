@@ -188,3 +188,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 22: January 20 2021
+**Today's Progress** : Can now post multiple images, view them and also done comment feature .
+
+**Thoughts**: Coded a lot today. Can post and view images, and also can comment and delete comments .
+
+**Link(s) to work**
+
+Soon to be hosted
