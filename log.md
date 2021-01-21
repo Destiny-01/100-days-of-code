@@ -197,3 +197,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 23: January 21 2021
+**Today's Progress** : Done with views, likes etc .
+
+**Thoughts**: Supposed to be done with this project by tommorow .
+
+**Link(s) to work**
+
+Soon to be hosted
