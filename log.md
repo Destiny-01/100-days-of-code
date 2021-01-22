@@ -206,3 +206,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 24: January 22 2021
+**Today's Progress** : Done with the site .
+
+**Thoughts**: Gave finishing touches and now done (might not look good on mobile now).
+
+**Link(s) to work**
+
+https://bruma.herokuapp.com
