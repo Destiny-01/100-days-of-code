@@ -215,3 +215,12 @@ Soon to be hosted
 **Link(s) to work**
 
 https://bruma.herokuapp.com
+
+### Day 25: January 23 2021
+**Today's Progress** : Integrated file upload to cloudinary .
+
+**Thoughts**: Thought i was done but not .
+
+**Link(s) to work**
+
+https://bruma.herokuapp.com
