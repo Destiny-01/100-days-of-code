@@ -233,3 +233,21 @@ https://bruma.herokuapp.com
 **Link(s) to work**
 
 When I'm done
+
+### Day 27: January 25 2021
+**Today's Progress** : Still Using carrierwave for image upload .
+
+**Thoughts**: Not yet done with carrier wave .
+
+**Link(s) to work**
+
+When I'm done
+
+### Day 28: January 25 2021
+**Today's Progress** : Today was all about error handling .
+
+**Thoughts**: Trying to  fix errors especially with images .
+
+**Link(s) to work**
+
+When I'm done
