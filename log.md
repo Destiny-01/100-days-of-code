@@ -251,3 +251,12 @@ When I'm done
 **Link(s) to work**
 
 When I'm done
+
+### Day 29: January 26 2021
+**Today's Progress** : Paused current project and started another one .
+
+**Thoughts**: Started a new project .
+
+**Link(s) to work**
+
+Soon to be hosted
