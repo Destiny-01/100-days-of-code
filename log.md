@@ -260,3 +260,21 @@ When I'm done
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 30: January 27 2021
+**Today's Progress** : Finished setting up everything and good to go .
+
+**Thoughts**: Done preparing the way.
+
+**Link(s) to work**
+
+Soon to be hosted
+
+### Day 31: January 27 2021
+**Today's Progress** : Created my code scaffold and some other little things .
+
+**Thoughts**: Started the process .
+
+**Link(s) to work**
+
+Soon to be hosted
