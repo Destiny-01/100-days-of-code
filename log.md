@@ -270,10 +270,19 @@ Soon to be hosted
 
 Soon to be hosted
 
-### Day 31: January 27 2021
+### Day 31: January 28 2021
 **Today's Progress** : Created my code scaffold and some other little things .
 
 **Thoughts**: Started the process .
+
+**Link(s) to work**
+
+Soon to be hosted
+
+### Day 32: January 29 2021
+**Today's Progress** : A code now has a TTL and is deleted after that .
+
+**Thoughts**: It now has a lifespan .
 
 **Link(s) to work**
 
