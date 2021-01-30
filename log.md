@@ -287,3 +287,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 33: January 30 2021
+**Today's Progress** : Done with full authentication .
+
+**Thoughts**: Can login, sign up, edit profile etc .
+
+**Link(s) to work**
+
+Soon to be hosted
