@@ -296,3 +296,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 34: January 31 2021
+**Today's Progress** : Didn't do a lot today .
+
+**Thoughts**: Just an hour today .
+
+**Link(s) to work**
+
+Soon to be hosted
