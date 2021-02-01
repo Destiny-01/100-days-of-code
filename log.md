@@ -305,3 +305,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 35: February 1 2021
+**Today's Progress** : A code snippet has a uuid .
+
+**Thoughts**: Uuid like youtube's .
+
+**Link(s) to work**
+
+Soon to be hosted
