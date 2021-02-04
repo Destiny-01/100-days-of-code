@@ -332,3 +332,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 38: February 4 2021
+**Today's Progress** : Using cancan for pro.
+
+**Thoughts**: Still trying.
+
+**Link(s) to work**
+
+Soon to be hosted
