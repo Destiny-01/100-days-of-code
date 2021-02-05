@@ -341,3 +341,13 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 39: February 5 2021
+**Today's Progress** : Done with pro feature.
+
+**Thoughts**: It has worked.
+
+**Link(s) to work**
+
+Soon to be hosted
+
