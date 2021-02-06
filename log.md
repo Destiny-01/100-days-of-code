@@ -343,9 +343,18 @@ Soon to be hosted
 Soon to be hosted
 
 ### Day 39: February 5 2021
-**Today's Progress** : Done with pro feature.
+**Today's Progress** : Done with pro feature. 
 
-**Thoughts**: It has worked.
+**Thoughts**: It has worked. 
+
+**Link(s) to work**
+
+Soon to be hosted
+
+### Day 40: February 6 2021
+**Today's Progress** : Using codemirror for code highlighting.
+
+**Thoughts**: Using codemirror so it looks like actual code..
 
 **Link(s) to work**
 
