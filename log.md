@@ -360,3 +360,12 @@ Soon to be hosted
 
 Soon to be hosted
 
+### Day 41: February 7 2021
+**Today's Progress** : Added limitations to free users.
+
+**Thoughts**: The pro users with no limitations.
+
+**Link(s) to work**
+
+Soon to be hosted
+
