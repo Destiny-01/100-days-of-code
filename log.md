@@ -369,3 +369,21 @@ Soon to be hosted
 
 Soon to be hosted
 
+### Day 42: February 8 2021
+**Today's Progress** : Using action cable to avoid reload.
+
+**Thoughts**: No need to refresh to see new codes 
+
+**Link(s) to work**
+
+Soon to be hosted
+
+### Day 43: February 9 2021
+**Today's Progress** : Still attempting codemirror .
+
+**Thoughts**: Still trying. 
+
+**Link(s) to work**
+
+Soon to be hosted
+
