@@ -387,3 +387,12 @@ Soon to be hosted
 
 Soon to be hosted
 
+### Day 44: February 10 2021
+**Today's Progress** : Stil ActionCable.
+
+**Thoughts**: Not yet done with action cable. 
+
+**Link(s) to work**
+
+Soon to be hosted
+
