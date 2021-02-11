@@ -396,3 +396,12 @@ Soon to be hosted
 
 Soon to be hosted
 
+### Day 45: February 11 2021
+**Today's Progress** : Didn't do a lot today.
+
+**Thoughts**: Notso proud of today's progress. 
+
+**Link(s) to work**
+
+Soon to be hosted
+
