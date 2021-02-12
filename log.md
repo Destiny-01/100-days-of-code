@@ -405,3 +405,12 @@ Soon to be hosted
 
 Soon to be hosted
 
+### Day 46: February 12 2021
+**Today's Progress** : Fixing little errors.
+
+**Thoughts**: Had little issues i had to deal with.
+
+**Link(s) to work**
+
+Soon to be hosted
+
