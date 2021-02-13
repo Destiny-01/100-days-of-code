@@ -414,3 +414,12 @@ Soon to be hosted
 
 Soon to be hosted
 
+### Day 47: February 13 2021
+**Today's Progress** : Did something.
+
+**Thoughts**: Did something but didn't know what i did.
+
+**Link(s) to work**
+
+Soon to be hosted
+
