@@ -423,3 +423,11 @@ Soon to be hosted
 
 Soon to be hosted
 
+### Day 48: February 14 2021
+**Today's Progress** : Started the html and css freecodecamp course.
+
+**Thoughts**: Done with html and almost through with css.
+
+**Link(s) to work**
+
+Soon to be hosted
