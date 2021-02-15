@@ -431,3 +431,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 49: February 15 2021
+**Today's Progress** : Still on the html and css freecodecamp course.
+
+**Thoughts**: Done with css and going forward .
+
+**Link(s) to work**
+
+Soon to be hosted
