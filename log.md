@@ -440,3 +440,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 50: February 16 2021
+**Today's Progress** : On the responsive web design freecodecamp course.
+
+**Thoughts**: Still moving forward .
+
+**Link(s) to work**
+
+Soon to be hosted
