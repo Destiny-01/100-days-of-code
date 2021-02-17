@@ -449,3 +449,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 51: February 17 2021
+**Today's Progress** : Finally finished my other site. 
+
+**Thoughts**: Paused learning and now done.
+
+**Link(s) to work**
+
+https://bruma.herokuapp.com
