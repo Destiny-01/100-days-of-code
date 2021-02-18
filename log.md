@@ -458,3 +458,12 @@ Soon to be hosted
 **Link(s) to work**
 
 https://bruma.herokuapp.com
+
+### Day 52: February 18 2021
+**Today's Progress** : Remaining the mobile responsiveness area. 
+
+**Thoughts**: Will finish everything tomorrow .
+
+**Link(s) to work**
+
+https://bruma.herokuapp.com
