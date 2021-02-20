@@ -467,3 +467,21 @@ https://bruma.herokuapp.com
 **Link(s) to work**
 
 https://bruma.herokuapp.com
+
+### Day 53: February 19 2021
+**Today's Progress** : Almost done . 
+
+**Thoughts**: Very close to finishing .
+
+**Link(s) to work**
+
+https://bruma.herokuapp.com
+
+### Day 54: February 20 2021
+**Today's Progress** : Now done . 
+
+**Thoughts**: Finally finished .
+
+**Link(s) to work**
+
+https://bruma.herokuapp.com
