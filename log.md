@@ -485,3 +485,12 @@ https://bruma.herokuapp.com
 **Link(s) to work**
 
 https://bruma.herokuapp.com
+
+### Day 55: February 21 2021
+**Today's Progress** : Started a new project and did some things . 
+
+**Thoughts**: Went real far today .
+
+**Link(s) to work**
+
+https://bruma.herokuapp.com
