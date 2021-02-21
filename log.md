@@ -493,4 +493,4 @@ https://bruma.herokuapp.com
 
 **Link(s) to work**
 
-https://bruma.herokuapp.com
+Soon to be hosted.
