@@ -494,3 +494,12 @@ https://bruma.herokuapp.com
 **Link(s) to work**
 
 Soon to be hosted.
+
+### Day 56 February 22 2021
+**Today's Progress** : Made a lot of progress today . 
+
+**Thoughts**: Went further on.
+
+**Link(s) to work**
+
+Soon to be hosted
