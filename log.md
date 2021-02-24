@@ -503,3 +503,21 @@ Soon to be hosted.
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 57 February 23 2021
+**Today's Progress** : Added Authentucation . 
+
+**Thoughts**: Complete auth done.
+
+**Link(s) to work**
+
+Soon to be hosted
+
+### Day 58 February 24 2021
+**Today's Progress** : Created my scaffold and did so much . 
+
+**Thoughts**: Can't list so much I've done.
+
+**Link(s) to work**
+
+Soon to be hosted
