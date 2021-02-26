@@ -521,3 +521,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 59-60 February 25-26 2021
+**Today's Progress** : Done with the ui. 
+
+**Thoughts**: Finished the ui.
+
+**Link(s) to work**
+
+Soon to be hosted
