@@ -530,3 +530,21 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 60-61 February 27-28 2021
+**Today's Progress** : Proceeding with the functionality . 
+
+**Thoughts**: Finished the ui and now moving on.
+
+**Link(s) to work**
+
+Soon to be hosted
+
+### Day 62 March 1 2021
+**Today's Progress** : Adding real time functionality . 
+
+**Thoughts**: There will be no need for reloading .
+
+**Link(s) to work**
+
+Soon to be hosted
