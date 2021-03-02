@@ -548,3 +548,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 63 March 2 2021
+**Today's Progress** : Still adding real time functionality . 
+
+**Thoughts**: Stil working on that .
+
+**Link(s) to work**
+
+Soon to be hosted
