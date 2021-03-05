@@ -557,3 +557,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 64-66 March 3-5 2021
+**Today's Progress** : Done with functionality . 
+
+**Thoughts**: Finished full functionalities .
+
+**Link(s) to work**
+
+Soon to be hosted
