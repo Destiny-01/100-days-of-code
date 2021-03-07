@@ -566,3 +566,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 65-67 March 4-6 2021
+**Today's Progress** : Touching the ui. 
+
+**Thoughts**: Fixing little things .
+
+**Link(s) to work**
+
+Soon to be hosted
