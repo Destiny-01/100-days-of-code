@@ -575,3 +575,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 68-69 March 7-9 2021
+**Today's Progress** : Almost done. 
+
+**Thoughts**: Almost done with the site .
+
+**Link(s) to work**
+
+Soon to be hosted
