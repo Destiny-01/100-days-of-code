@@ -585,7 +585,7 @@ Soon to be hosted
 
 Soon to be hosted
 
-### Day 70-71 March 7-9 2021
+### Day 70-71 March 10-11 2021
 **Today's Progress** : Nearly . 
 
 **Thoughts**: Almost there .
