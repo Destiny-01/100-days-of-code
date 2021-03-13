@@ -567,7 +567,7 @@ Soon to be hosted
 
 Soon to be hosted
 
-### Day 65-67 March 4-6 2021
+### Day 67-69 March 6-8 2021
 **Today's Progress** : Touching the ui. 
 
 **Thoughts**: Fixing little things .
@@ -576,7 +576,7 @@ Soon to be hosted
 
 Soon to be hosted
 
-### Day 68-69 March 7-9 2021
+### Day 70-71 March 9-10 2021
 **Today's Progress** : Almost done. 
 
 **Thoughts**: Almost done with the site .
@@ -585,10 +585,19 @@ Soon to be hosted
 
 Soon to be hosted
 
-### Day 70-71 March 10-11 2021
+### Day 72-73 March 11-12 2021
 **Today's Progress** : Nearly . 
 
 **Thoughts**: Almost there .
+
+**Link(s) to work**
+
+Soon to be hosted
+
+### Day 74 March 13 2021
+**Today's Progress** : I was fixing some errors. 
+
+**Thoughts**: Still little errors somewhere there .
 
 **Link(s) to work**
 
