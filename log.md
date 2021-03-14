@@ -602,3 +602,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 75 March 14 2021
+**Today's Progress** : Still fixing some errors. 
+
+**Thoughts**: Still little errors somewhere there .
+
+**Link(s) to work**
+
+Soon to be hosted
