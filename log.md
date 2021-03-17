@@ -611,3 +611,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 76-78 March 15-17 2021
+**Today's Progress** : Took a 3 day break. 
+
+**Thoughts**: Stop coding for some time now .
+
+**Link(s) to work**
+
+Soon to be hosted
