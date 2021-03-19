@@ -620,3 +620,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 79-80 March 18-19 2021
+**Today's Progress** : Added sidebar navigation . 
+
+**Thoughts**: There is now a sidebar .
+
+**Link(s) to work**
+
+Soon to be hosted
