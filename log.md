@@ -629,3 +629,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 81-82 March 20-21 2021
+**Today's Progress** : Adding activity status. 
+
+**Thoughts**: Online or not.
+
+**Link(s) to work**
+
+Soon to be hosted
