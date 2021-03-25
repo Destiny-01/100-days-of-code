@@ -638,3 +638,12 @@ Soon to be hosted
 **Link(s) to work**
 
 Soon to be hosted
+
+### Day 83-84 March 22-24 2021
+**Today's Progress** : Removed activity status. 
+
+**Thoughts**: Online or not.
+
+**Link(s) to work**
+
+Soon to be hosted
